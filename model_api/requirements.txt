@@ -1,0 +1,6 @@
+parlai
+fastapi
+uvicorn
+
+python /Users/mac/.pyenv/versions/3.8.5/envs/test_env/mynatest/lib/python3.9/site-packages/parlai/scripts/safe_interactive.py -t blended_skill_talk -mf zoo:blender/blender_90M/model
+
